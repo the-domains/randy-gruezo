@@ -1,0 +1,28 @@
+name: Randy Gruezo
+favicon: null
+layout_spectrum: 0.603516539093107
+typography_spectrum: 0.11410507978871465
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9342218358069658
+  lightness: 0.0221724403090775
+  saturation: 0.3915555812418461
+  rhythmicContrast: 0.6262457666452974
+purpose: []
